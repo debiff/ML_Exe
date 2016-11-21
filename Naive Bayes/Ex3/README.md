@@ -41,5 +41,7 @@ My solution is the following:
     return accuracy_score(labels_test, pred, normalize=True)
 ```
 I used the accuracy_score function that as input need the labels predicted and the true labels. The last parameter is normalize and if is true the function return the fraction of correctly classified samples otherwise return the number of correctly classified samples.
+
+The correct result is 0.884 and if you want test it you can print the result of the NBAccuracy function
  
 
