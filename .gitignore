@@ -2,3 +2,13 @@
 RemoteSystemsTempFiles/**
 **/.project
 **/.pydevproject
+*.pyc
+miniprojects/enron_mail_20110402.tgz
+miniprojects/enron_mail_20110402/
+miniprojects/enron_mail_20150507.tgz
+miniprojects/maildir/
+miniprojects/text_learning/your_word_data.pkl
+miniprojects/text_learning/your_email_authors.pkl
+miniprojects/my_classifier.pkl
+miniprojects/my_dataset.pkl
+miniprojects/my_feature_list.pkl
