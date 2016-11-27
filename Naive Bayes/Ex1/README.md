@@ -7,7 +7,7 @@ First of all being good learner we start reading the documentation at this link:
 
 ### See the first example of Gaussian Naive Bayes
 We focus on the first example:
-```
+```python
 >>> import numpy as np
 >>> X = np.array([[-1, -1], [-2, -1], [-3, -2], [1, 1], [2, 1], [3, 2]])
 >>> Y = np.array([1, 1, 1, 2, 2, 2])

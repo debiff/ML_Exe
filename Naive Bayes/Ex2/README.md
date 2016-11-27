@@ -9,7 +9,7 @@ We obtain from the teacher the 3 files studentMain.py, class_vis.py, prep_terrai
 
 ### ClassifyNB.py
 This file is presentend as follow
-```
+```python
 def classify(features_train, labels_train):   
     ### import the sklearn module for GaussianNB
     ### create classifier

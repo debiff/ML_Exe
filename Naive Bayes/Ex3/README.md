@@ -5,7 +5,7 @@ We use the same two files of Ex2, class_vis.py and perp_terrain_data.py while th
 
 ### classify.py
 This file is presentend as follow
-```
+```python
 def NBAccuracy(features_train, labels_train, features_test, labels_test):
     """ compute the accuracy of your Naive Bayes classifier """
     ### import the sklearn module for GaussianNB
