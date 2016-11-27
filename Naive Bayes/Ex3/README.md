@@ -26,7 +26,7 @@ def NBAccuracy(features_train, labels_train, features_test, labels_test):
 ```
 and in addition to the notions learned in the Ex2 we must find a method to compute the accuracy.
 My solution is the following:
-```
+```python
 	def NBAccuracy(features_train, labels_train, features_test, labels_test):
     ### import the sklearn module for GaussianNB
     from sklearn.naive_bayes import GaussianNB
